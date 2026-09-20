@@ -8,3 +8,6 @@ explore.ipynb, repeats the experiments interactively.
 
 Lab 1 – Fundamentals of Computer Programming,
 BSc Data Science for Responsible Business.
+## Reflection
+
+Today I learned how to use a virtual environment for a Python project. I also learned that requirements.txt can save the packages used in the project. This can help another person run the same project later. I think this is useful when sharing code.really hard for a totally new guy like me:)
